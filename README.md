@@ -44,7 +44,7 @@ You can download the MacOS installation at the following link, [`Download Here`]
 
 ## What's Working?
 - QE/CI Intel HD Graphics 520
-- Power Management (Battery Assembly)
+- Power Management (My Battery Assembly)
 - Sleep, Shutdown, Restart 
 - Audio Speaker & Earphone 
 - Bluetooth 
@@ -53,7 +53,7 @@ You can download the MacOS installation at the following link, [`Download Here`]
 - etc
 
 ## Credits:
-OLARILA <a href="https://olarila.com">
+OLARILA
 
 ## Download
 click the button below to download EFI
