@@ -16,16 +16,25 @@ Bootloader | OpenCore
   <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2007.34.03.png?raw=true"/></kbd></kbd>
   <br><br>
 <p align="center">
-  <kbd><br>B A T T E R Y
+  <kbd><br>S E T T I N G 
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.59.36.png"/></kbd></kbd>
+  <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2015.44.16.png?raw=true"/></kbd></kbd>
 </p>
 <p align="center">
   <kbd><br>S O U N D
   <br><br>
-  <kbd><img src="https://raw.githubusercontent.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/Opencore/screenshot/Jepretan%20Layar%202022-04-05%20pukul%2005.55.56.png"/></kbd></kbd>
+  <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2015.44.27.png?raw=true"/></kbd></kbd>
 </p>
-
+<p align="center">
+  <kbd><br>B L U E T O O T H
+  <br><br>
+  <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2015.44.41.png?raw=true"/></kbd></kbd>
+</p>
+<p align="center">
+  <kbd><br>W I F I
+  <br><br>
+  <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2015.44.27.png?raw=true"/></kbd></kbd>
+</p>
 ### GetMacOS
 You can download the MacOS installation at the following link, [`Download Here`](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/)
 
