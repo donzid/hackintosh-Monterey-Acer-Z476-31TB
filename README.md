@@ -1,0 +1,1 @@
+# hackintosh-Monterey-Acer-Z476-31TB
