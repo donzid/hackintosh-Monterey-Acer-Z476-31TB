@@ -30,69 +30,30 @@ Bootloader | OpenCore
   <br><br>
   <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2015.44.41.png?raw=true"/></kbd></kbd>
 </p>
-<p align="center">
-  <kbd><br>W I F I
-  <br><br>
-  <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2015.44.27.png?raw=true"/></kbd></kbd>
-</p>
+
 ### GetMacOS
 You can download the MacOS installation at the following link, [`Download Here`](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/)
 
 ## MacOS
 - Monterey (Tested, OpenCore)
-- Bigsur (Tested, OpenCore)
-> AirpoAirportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is Monterey.
-> To download Airportitwlm [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 
 # Bios
-- `Security -> Security Chip`: **Disabled**;
-- `Memory Protection -> Execution Prevention`: **Enabled**;
-- `Virtualization -> Intel Virtualization Technology`: **Enabled**;
-- `Virtualization -> Vt-directed IO`: **Disabled**;
-- `Internal Device Access -> Bottom Cover Tamper Detection`: must be **Disabled**;
-- `Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
 - `Secure Boot -> Secure Boot`: **Disabled**;
 - `UEFI/Legacy Boot`: **UEFI Only**;
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 5500 `BigSur` `Monterey`
-- Power Management `BigSur` `Monterey`
-- Sleep, Shutdown, Restart `BigSur` `Monterey` `[sleep not tested]`
-- Audio Speaker & Earphone `BigSur` `Monterey`
-- Bluetooth `BigSur` `Monterey`
-- Trackpad, Trackball, Gestures `BigSur` `Monterey`
-- Indikator baterai `BigSur` `Monterey`
-- Camera `BigSur` `Monterey`
+- QE/CI Intel HD Graphics 520
+- Power Management (Battery Assembly)
+- Sleep, Shutdown, Restart 
+- Audio Speaker & Earphone 
+- Bluetooth 
+- Trackpad, Trackball, Gestures 
+- Indikator baterai (Maybe work, i dont use battery)
 - etc
 
-# Tips 
-
-Help Fix Screen Sleep
-
-```bash
-sudo pmset autopoweroff 0
-sudo pmset powernap 0
-sudo pmset standby 0
-sudo pmset proximitywake 0
-sudo pmset tcpkeepalive 0
-```
-
-This will do 5 things for us:
-
-- `Disables` **autopoweroff**: This is a form of hibernation
-- `Disables` **powernap**: Used to periodically wake the machine for network, and updates(but not the display)
-- `Disables` **standby**: Used as a time period between sleep and going into hibernation
-- `Disables` wake from iPhone/Watch: Specifically when your iPhone or Apple Watch come near, the machine will wake
-- `Disables` **TCP Keep Alive** mechanism to prevent wake ups every 2 hours
-
 ## Credits:
-- [Ikhsaan](https://github.com/exxncss) my cool teacher
-- [Friction • RK800](https://t.me/gerobaksariroti) help fix some bugs
-- [Irawan](https://t.me/irawansalt)
-- [Racka](https://github.com/racka98)
-- [Vcyzteen](https://github.com/vcyzteen) wallpaper on Post
-- [Hackintosh Lover](https://t.me/HackintoshLover)
+OLARILA <a href="https://olarila.com">
 
 ## Download
 click the button below to download EFI
