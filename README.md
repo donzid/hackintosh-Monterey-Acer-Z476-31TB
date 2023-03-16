@@ -13,7 +13,7 @@ Bootloader | OpenCore
 <p align="center">
   <kbd><br>M O N T E R E Y 12.6
   <br><br>
-  <kbd><img src="https://github.com/zamprjkt/Lenovo-Thinkpad-X250-Hackintosh/raw/Opencore/screenshot/Screen%20Shot%202022-09-21%20at%2018.07.19.png"/></kbd></kbd>
+  <kbd><img src="https://github.com/donzid/hackintosh-Monterey-Acer-Z476-31TB/blob/main/Screenshot/Jepretan%20Layar%202023-03-16%20pukul%2007.34.03.png?raw=true"/></kbd></kbd>
   <br><br>
 <p align="center">
   <kbd><br>B A T T E R Y
